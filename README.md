@@ -1,2 +1,7 @@
-# Password-Generator
-effective C project for creating random passwords is password_generator.c. The application generates a password of a certain length using a mix of digits, lowercase, capital, and special symbols. Every time the programme runs, a new password is created by utilising the randomization and time capabilities of the C standard library.
+# Password Generator
+
+This program generates a random password of a specified length using a mix of numbers, lowercase letters, uppercase letters, and special symbols. It ensures that each generated password is unique by seeding the random number generator with the current time.
+
+## How to Use
+
+### Prerequisites
